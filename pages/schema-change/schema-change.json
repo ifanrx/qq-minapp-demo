@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "schema 增删改测试",
+  "usingComponents": {
+    "card": "/components/card/card"
+  }
+}

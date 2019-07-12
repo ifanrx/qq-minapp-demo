@@ -1,0 +1,9 @@
+{
+  "defaultTitle": "Schema 查找测试",
+  "usingComponents":{
+    "card": "/components/card/card",
+    "list": "/components/list/list",
+    "list-item": "/components/list-item/list-item",
+    "stepper": "/components/stepper/stepper"
+  }
+}
