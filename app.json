@@ -1,0 +1,15 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/auth/auth",
+    "pages/invoke-function/invoke-function",
+    "pages/schema-change/schema-change",
+    "pages/schema-query/schema-query"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "知晓云 SDK Demo",
+    "navigationBarTextStyle":"black"
+  }
+}
